@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "react-native-android-sms": ["../src/index"],
+      "react-native-android-sms/*": ["../src/*"]
+    }
+  }
+}

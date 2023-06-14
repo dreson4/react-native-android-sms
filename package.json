@@ -1,7 +1,7 @@
 {
   "name": "react-native-android-sms",
   "version": "0.1.0",
-  "description": "Android sms management",
+  "description": "Send sms on Android programatically",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {

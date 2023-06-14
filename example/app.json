@@ -19,6 +19,7 @@
       "bundleIdentifier": "dreson4.androidsms.example"
     },
     "android": {
+      "permissions": ["SEND_SMS", "READ_PHONE_STATE"],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
